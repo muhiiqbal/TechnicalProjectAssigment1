@@ -43,14 +43,14 @@ main {
   padding: 50px 0;
 }
 
-.cards {
+.portofolio {
   display: flex;
   justify-content: center;
   align-items: center;
   flex-wrap: wrap;
 }
 
-.card {
+.portofolios {
   margin: 20px;
   padding: 20px;
   border: 1px solid #ccc;

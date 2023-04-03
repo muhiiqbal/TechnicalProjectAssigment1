@@ -37,6 +37,11 @@ nav ul li a:hover{
     color: red;
 }
 
+.delet {
+    flex-wrap: wrap;
+    
+}
+
 .method{
     margin-left: 0%;
     margin-top: 15%;
